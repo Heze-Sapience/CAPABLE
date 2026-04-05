@@ -140,10 +140,10 @@ If you are interested in collaborating or submitting a project:
 ## 👤 Founder
 
 **Toluwase Fatoki**
-Founder, CAPABLE Program.
-PhD Researcher, Concordia University, Canada.
-LinkedIn: https://www.linkedin.com/in/hezekiahfatoki
-ResearchGate: https://www.researchgate.net/profile/Toluwase-Fatoki
+* Founder, CAPABLE Program.
+* PhD Researcher, Concordia University, Canada.
+* LinkedIn: https://www.linkedin.com/in/hezekiahfatoki
+* ResearchGate: https://www.researchgate.net/profile/Toluwase-Fatoki
 
 ---
 
