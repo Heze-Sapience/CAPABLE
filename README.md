@@ -25,7 +25,7 @@ To democratize access to molecular dynamics simulations and empower researchers 
 ## ⚙️ What CAPABLE Provides
 
 * 🧬 Molecular dynamics (MD) simulations (peptides, ligands, proteins, RNA/DNA, membranes).
-* 🧪 Complex MD simulations.
+* 🧪 Complex MD simulations (peptide-protein, ligand-protein, protein-protein, peptide/ligand-protein-DNA/RNA, Peptide/ligand-membrane, peptide/ligand-protein-membrane).
 * 📊 Standardized MD analysis outputs including MMGBSA/MMPBSA where applicable.
 * 📄 Publication writing guidance.
 
