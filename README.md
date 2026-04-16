@@ -1,6 +1,8 @@
 # 🌍 CAPABLE Program
 
-**Computational Access for Professionals in Applied Biosciences for Leveling Experiences**
+**Computational Access for Professionals in Applied Biosciences for Leveling Experiences (CAPABLE)**
+
+**Pilot program: April 2026 - April 2027**
 
 ---
 
@@ -149,7 +151,7 @@ If you are interested in collaborating or submitting a project:
 
 ## 📌 About
 
-CAPABLE (**Computational Access for Professionals in Applied Biosciences for Leveling Experiences**) is a step toward building a **distributed computational infrastructure for bioscience research**, enabling scientists worldwide to access tools that were previously out of reach.
+CAPABLE (**Computational Access for Professionals in Applied Biosciences for Leveling Experiences**) is a step toward building a **distributed computational infrastructure for bioscience research**, enabling scientists in Africa to access tools that were previously out of reach.
 
 ---
 
